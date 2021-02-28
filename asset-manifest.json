@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/genergy-dep.io/static/css/main.3557b211.chunk.css",
-    "main.js": "/genergy-dep.io/static/js/main.b79888f6.chunk.js",
-    "main.js.map": "/genergy-dep.io/static/js/main.b79888f6.chunk.js.map",
+    "main.js": "/genergy-dep.io/static/js/main.46059f08.chunk.js",
+    "main.js.map": "/genergy-dep.io/static/js/main.46059f08.chunk.js.map",
     "runtime-main.js": "/genergy-dep.io/static/js/runtime-main.2f4ad670.js",
     "runtime-main.js.map": "/genergy-dep.io/static/js/runtime-main.2f4ad670.js.map",
     "static/css/2.84c58044.chunk.css": "/genergy-dep.io/static/css/2.84c58044.chunk.css",
     "static/js/2.7ed634e8.chunk.js": "/genergy-dep.io/static/js/2.7ed634e8.chunk.js",
     "static/js/2.7ed634e8.chunk.js.map": "/genergy-dep.io/static/js/2.7ed634e8.chunk.js.map",
     "index.html": "/genergy-dep.io/index.html",
-    "precache-manifest.8561ba83647c9b1c2ff8705b46225b0b.js": "/genergy-dep.io/precache-manifest.8561ba83647c9b1c2ff8705b46225b0b.js",
+    "precache-manifest.f737d69fde17611de8acd58f4b6b3539.js": "/genergy-dep.io/precache-manifest.f737d69fde17611de8acd58f4b6b3539.js",
     "service-worker.js": "/genergy-dep.io/service-worker.js",
     "static/css/2.84c58044.chunk.css.map": "/genergy-dep.io/static/css/2.84c58044.chunk.css.map",
     "static/css/main.3557b211.chunk.css.map": "/genergy-dep.io/static/css/main.3557b211.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.84c58044.chunk.css",
     "static/js/2.7ed634e8.chunk.js",
     "static/css/main.3557b211.chunk.css",
-    "static/js/main.b79888f6.chunk.js"
+    "static/js/main.46059f08.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c09f2c2fd56cce4b49206b52c8449aaf",
+    "revision": "8c117bf00c1b446220680ca94ee9700a",
     "url": "/genergy-dep.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/genergy-dep.io/static/css/2.84c58044.chunk.css"
   },
   {
-    "revision": "2a8c6cb6abf3ac5d9bb9",
+    "revision": "29d415eb3973cc5fdb02",
     "url": "/genergy-dep.io/static/css/main.3557b211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/genergy-dep.io/static/js/2.7ed634e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a8c6cb6abf3ac5d9bb9",
-    "url": "/genergy-dep.io/static/js/main.b79888f6.chunk.js"
+    "revision": "29d415eb3973cc5fdb02",
+    "url": "/genergy-dep.io/static/js/main.46059f08.chunk.js"
   },
   {
     "revision": "199875088edc7841c286",
