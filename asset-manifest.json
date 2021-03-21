@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/genergy-dep.io/static/css/main.3557b211.chunk.css",
-    "main.js": "/genergy-dep.io/static/js/main.46059f08.chunk.js",
-    "main.js.map": "/genergy-dep.io/static/js/main.46059f08.chunk.js.map",
+    "main.css": "/genergy-dep.io/static/css/main.531eb7d1.chunk.css",
+    "main.js": "/genergy-dep.io/static/js/main.e84c725e.chunk.js",
+    "main.js.map": "/genergy-dep.io/static/js/main.e84c725e.chunk.js.map",
     "runtime-main.js": "/genergy-dep.io/static/js/runtime-main.2f4ad670.js",
     "runtime-main.js.map": "/genergy-dep.io/static/js/runtime-main.2f4ad670.js.map",
-    "static/css/2.84c58044.chunk.css": "/genergy-dep.io/static/css/2.84c58044.chunk.css",
-    "static/js/2.7ed634e8.chunk.js": "/genergy-dep.io/static/js/2.7ed634e8.chunk.js",
-    "static/js/2.7ed634e8.chunk.js.map": "/genergy-dep.io/static/js/2.7ed634e8.chunk.js.map",
+    "static/css/2.84bd7022.chunk.css": "/genergy-dep.io/static/css/2.84bd7022.chunk.css",
+    "static/js/2.27863f7a.chunk.js": "/genergy-dep.io/static/js/2.27863f7a.chunk.js",
+    "static/js/2.27863f7a.chunk.js.map": "/genergy-dep.io/static/js/2.27863f7a.chunk.js.map",
     "index.html": "/genergy-dep.io/index.html",
-    "precache-manifest.f737d69fde17611de8acd58f4b6b3539.js": "/genergy-dep.io/precache-manifest.f737d69fde17611de8acd58f4b6b3539.js",
+    "precache-manifest.8bf788d74a7a66008df2b0003c5f6f54.js": "/genergy-dep.io/precache-manifest.8bf788d74a7a66008df2b0003c5f6f54.js",
     "service-worker.js": "/genergy-dep.io/service-worker.js",
-    "static/css/2.84c58044.chunk.css.map": "/genergy-dep.io/static/css/2.84c58044.chunk.css.map",
-    "static/css/main.3557b211.chunk.css.map": "/genergy-dep.io/static/css/main.3557b211.chunk.css.map",
-    "static/js/2.7ed634e8.chunk.js.LICENSE.txt": "/genergy-dep.io/static/js/2.7ed634e8.chunk.js.LICENSE.txt"
+    "static/css/2.84bd7022.chunk.css.map": "/genergy-dep.io/static/css/2.84bd7022.chunk.css.map",
+    "static/css/main.531eb7d1.chunk.css.map": "/genergy-dep.io/static/css/main.531eb7d1.chunk.css.map",
+    "static/js/2.27863f7a.chunk.js.LICENSE.txt": "/genergy-dep.io/static/js/2.27863f7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2f4ad670.js",
-    "static/css/2.84c58044.chunk.css",
-    "static/js/2.7ed634e8.chunk.js",
-    "static/css/main.3557b211.chunk.css",
-    "static/js/main.46059f08.chunk.js"
+    "static/css/2.84bd7022.chunk.css",
+    "static/js/2.27863f7a.chunk.js",
+    "static/css/main.531eb7d1.chunk.css",
+    "static/js/main.e84c725e.chunk.js"
   ]
 }
