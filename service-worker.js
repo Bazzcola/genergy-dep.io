@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/genergy-dep.io/precache-manifest.8bf788d74a7a66008df2b0003c5f6f54.js"
+  "/genergy-dep.io/precache-manifest.561368c6bba97cc637ee31af095f6438.js"
 );
 
 self.addEventListener('message', (event) => {
